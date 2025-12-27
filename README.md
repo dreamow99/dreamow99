@@ -1,3 +1,4 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/dreamow99/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dreamow99/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://github.com/dreamow99/github-stat/blob/master/generated/overview.svg)
+![](https://github.com/dreamow99/github-stat/blob/master/generated/languages.svg)
